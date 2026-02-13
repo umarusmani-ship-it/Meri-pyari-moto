@@ -108,7 +108,7 @@ button {
             <h1 style="color: #d63384;">I Love You! ❤️</h1>
             <hr style="border: 0.5px solid #ffc2d1; margin: 20px 0;">
             <span class="sticker">🤣</span>
-            <p>But sorry im not single...</p>
+            <p>Now you are queen of my heart...</p>
             <p style="font-weight: bold; color: #ff4d6d;">Meri life mein ek "Motu" pehle se hai! 💅</p>
         </div>
     </div>
