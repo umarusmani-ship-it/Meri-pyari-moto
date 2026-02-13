@@ -107,9 +107,9 @@ button {
             <span class="sticker">🥺</span>
             <h1 style="color: #d63384;">I Love You! ❤️</h1>
             <hr style="border: 0.5px solid #ffc2d1; margin: 20px 0;">
-            <span class="sticker">🤣</span>
+            <span class="sticker">🫦</span>
             <p>Now you are queen of my heart...</p>
-            <p style="font-weight: bold; color: #ff4d6d;">Meri life mein ek "Motu" pehle se hai! 💅</p>
+            <p style="font-weight: bold; color: #ff4d6d;"> Happy Valentines day 🥰</p>
         </div>
     </div>
     <script>
